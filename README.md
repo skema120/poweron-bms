@@ -16,6 +16,20 @@ A robust, enterprise-grade Business Management System built with PHP (CodeIgnite
 3.  **Role-Based Access Control (RBAC):** Supports distinct account types including Manager, Accounting, Admin Staff, IT Analyst, and Purchaser.
 4.  **Secure Authentication:** Includes a dedicated Login Portal and a "Change Password" facility for user account security.
 
+## 📸 Screenshots
+
+| **Login Portal** | **Dashboard** |
+|:---:|:---:|
+| ![Login Portal](screenshots/LOGIN%20PAGE.png) | ![Dashboard](screenshots/DASHBOARD.png) |
+
+| **Inventory Management** | **System Logs** |
+|:---:|:---:|
+| ![Onhand Item](screenshots/ONHAND%20ITEM%20PAGE.png) | ![System Logs](screenshots/SYSTEM%20LOGS%20PAGE.png) |
+
+| **Permission Assignment** | **User Management** |
+|:---:|:---:|
+| ![Permissions](screenshots/USER%20MANAGEMENT%20PAGE%20EDIT.png) | ![User List](screenshots/USER%20MANAGEMENT%20PAGE.png) |
+
 ## 🛠️ Installation
 
 1.  **Prerequisites:**
